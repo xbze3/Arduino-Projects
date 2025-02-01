@@ -1,2 +1,2 @@
 # Arduino-Projects
-A collection of my Arduino Project Code
+A collection of some basic Arduino Project Code
